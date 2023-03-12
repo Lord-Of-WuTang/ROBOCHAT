@@ -1,0 +1,16 @@
+{
+  "name": "altchat",
+  "version": "2.0.0",
+  "description": "Alt 3rd semester Exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aanu Gbajumo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "socket.io": "^4.6.1"
+  }
+}
